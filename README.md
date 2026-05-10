@@ -141,4 +141,4 @@ MIT License — feel free to use, modify, and share!
 
 Made by **Ekanshi** — feel free to connect!
 
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR_USERNAME-black?logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Ekanshigangkas-black?logo=github)](https://github.com/Ekanshiganglas)
