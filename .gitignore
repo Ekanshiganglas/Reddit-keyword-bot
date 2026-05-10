@@ -1,0 +1,21 @@
+# Sensitive files - NEVER push these
+config.py
+.env
+
+# Bot runtime files
+replied.txt
+matches_log.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
